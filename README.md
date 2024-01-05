@@ -64,6 +64,3 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 * [Kirill_C](https://vk.com/kirill_c)
 
-## Выводы
-
-Допишите выводы по проделанной работе.
