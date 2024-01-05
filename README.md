@@ -62,7 +62,7 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 ## Авторы
 
-* [Kirill_C](vk.com/kirill_c)
+* [Kirill_C](https://vk.com/kirill_c)
 
 ## Выводы
 
